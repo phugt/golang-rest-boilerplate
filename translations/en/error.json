@@ -1,0 +1,12 @@
+[
+    {
+        "locale": "en",
+        "key": "accountNotExist",
+        "trans": "Your account is not exist"
+    },
+    {
+        "locale": "en",
+        "key": "wrongPassword",
+        "trans": "Wrong password"
+    }
+]

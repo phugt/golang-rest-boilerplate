@@ -1,0 +1,12 @@
+[
+    {
+        "locale": "vi",
+        "key": "accountNotExist",
+        "trans": "Tài khoản không tồn tại"
+    },
+    {
+        "locale": "vi",
+        "key": "wrongPassword",
+        "trans": "Sai mật khẩu"
+    }
+]

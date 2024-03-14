@@ -1,0 +1,42 @@
+[
+    {
+        "locale": "vi",
+        "key": "Email",
+        "trans": "Địa chỉ email"
+    },
+    {
+        "locale": "vi",
+        "key": "Password",
+        "trans": "Mật khẩu"
+    },
+    {
+        "locale": "vi",
+        "key": "FullName",
+        "trans": "Tên đầy đủ"
+    },
+    {
+        "locale": "vi",
+        "key": "Address",
+        "trans": "Địa chỉ"
+    },
+    {
+        "locale": "vi",
+        "key": "Desc",
+        "trans": "Giới thiệu"
+    },
+    {
+        "locale": "vi",
+        "key": "OldPassword",
+        "trans": "Mật khẩu hiện tại"
+    },
+    {
+        "locale": "vi",
+        "key": "NewPassword",
+        "trans": "Mật khẩu mới"
+    },
+    {
+        "locale": "vi",
+        "key": "RePassword",
+        "trans": "Gõ lại mật khẩu"
+    }
+]

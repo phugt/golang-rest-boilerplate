@@ -1,0 +1,42 @@
+[
+    {
+        "locale": "en",
+        "key": "Email",
+        "trans": "Email"
+    },
+    {
+        "locale": "en",
+        "key": "Password",
+        "trans": "Password"
+    },
+    {
+        "locale": "en",
+        "key": "FullName",
+        "trans": "Full name"
+    },
+    {
+        "locale": "en",
+        "key": "Address",
+        "trans": "Address"
+    },
+    {
+        "locale": "en",
+        "key": "Desc",
+        "trans": "Description"
+    },
+    {
+        "locale": "en",
+        "key": "OldPassword",
+        "trans": "Current password"
+    },
+    {
+        "locale": "en",
+        "key": "NewPassword",
+        "trans": "New password"
+    },
+    {
+        "locale": "en",
+        "key": "RePassword",
+        "trans": "Retype password"
+    }
+]
